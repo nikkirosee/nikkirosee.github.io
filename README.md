@@ -13,7 +13,7 @@ ___
 
 ## Emphasis
 
-** This is bold text **
+**This is bold text**
 
 _This is bold text_
 
@@ -21,7 +21,7 @@ _This is bold text_
 
 _This is italic text_
 
-Strikethrough
+~~Strikethrough~~
 
 
 ## Blockquotes
@@ -93,13 +93,6 @@ Right alined columns
 | engine | engine to be used for processing templates. Handlebars is the default. |
 | ext    | extension to be used for dest files. |
 
-
-
-## Links
-[link text](https://dev.nodeca.com)
-
-
-[link with title](https://noedca.github.io/pica/demo/"title text!")
 
 ## Images
 
