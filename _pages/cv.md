@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Please click here to view my CV](https://nikkirosee.github.io/files/pdf%20sample.pdf)
+
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
