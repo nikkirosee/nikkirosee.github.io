@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Please click here for my CV](https://nikkirosee.github.io/pdf%20sample.pdf)
+[Please click here for my CV](https://nikkirosee.github.io/files/pdf%20sample.pdf)
 
 Education
 ======
